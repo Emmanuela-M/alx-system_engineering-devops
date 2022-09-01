@@ -1,1 +1,1 @@
-Create a script that
+Create a magic school file that
